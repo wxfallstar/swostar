@@ -1,0 +1,19 @@
+{
+    "name": "wxfallstar/swostar",
+    "type": "library",
+    "authors": [
+        {
+            "name": "wxfallstar",
+            "email": "wxfallstar@qq.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "SwoStar\\": "./src/"
+        },
+        "files":[
+            "src/Supper/Helper.php"
+        ]
+    },
+    "require": {}
+}
